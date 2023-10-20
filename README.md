@@ -1,5 +1,5 @@
 # TheatrhythmFBL-video-auto-split
-Automatic splits with load removal for Theatrhythm Final Bar Line
+Automatic splits with load removal for Theatrhythm Final Bar Line  
 .vas compatible with VideoAutoSplit component by ROMaster2 https://github.com/ROMaster2/LiveSplit.VideoAutoSplit
 
 # Installation
